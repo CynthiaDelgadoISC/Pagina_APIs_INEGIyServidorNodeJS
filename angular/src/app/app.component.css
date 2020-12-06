@@ -1,0 +1,16 @@
+div.cont{
+    background-color: rgba(255, 255, 255, 0.246);
+    
+
+    
+}
+
+div.titulo{
+    background-color: rgba(0, 0, 0, 0.705);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: honeydew;
+}
+
